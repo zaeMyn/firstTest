@@ -9,7 +9,5 @@ git add notice.txt
 git commit -m 'notice update'
 git push origin master
 
-test
-
 
 
